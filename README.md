@@ -1,16 +1,31 @@
-### Hi there 👋
+<h2> Hi, I'm Cristian! <img src="https://media.giphy.com/media/25LxRtoT97mGOfE6Lh/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="230" style="border-radius:50%;">
+<p><em>Software Enginner at <a href="https://www.ulasalle.edu.bo/sp/">La Salle University</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>
+</em></p>
 
-<!--
-**crisdux/crisdux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter: cris_cuetillo](https://img.shields.io/twitter/follow/cris_cuetillo?style=social)](https://twitter.com/cris_cuetillo)
+[![Linkedin: CristianFernandoVillcaGutierrez](https://img.shields.io/badge/-crisfer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/crisfer-dux)](https://www.linkedin.com/in/crisfer-dux/)
+[![GitHub crisdux](https://img.shields.io/github/followers/crisdux?label=follow&style=social)](https://github.com/crisdux)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### <img src="https://media.giphy.com/media/12bugGuTq5Pv5m/giphy.gif" width="40"> A little more about me... 
+
+```javascript
+const cristian = {
+  pronouns: "cris" | "dux",
+  developer: "Full Stack",
+  code: [Javascript, PHP, HTML, CSS, Python],
+  tools: [React, Vue, Laravel, Styled-Components],
+  data_bases:[MySQL, Mongo, PostgreSQL, MariaDB]
+  techCommunities:[
+      {id:1, description:"DevTo", position:"blogger"},
+      {id:2, description:"Dr.Js", position:"creator"},
+  ],
+                
+}
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---
