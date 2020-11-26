@@ -1,5 +1,5 @@
 <h2> Hi, I'm Cristian! <img src="https://media.giphy.com/media/25LxRtoT97mGOfE6Lh/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="230" style="border-radius:100%;">
 <p><em>Software Enginner at <a href="https://www.ulasalle.edu.bo/sp/">La Salle University</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>
 </em></p>
 
