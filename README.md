@@ -61,5 +61,5 @@
 
 <a href="https://app.daily.dev/crisdux"><img src="https://github.com/crisdux/crisdux/blob/main/devcard.svg" width="200" alt="crisdux card"/></a>
 
-[![crisdux's GitHub | Languages Over Time](https://stats.quine.sh/crisdux/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=crisdux)
+[![crisdux's GitHub | Stats](https://stats.quine.sh/crisdux/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=crisdux)
 
