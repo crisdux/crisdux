@@ -50,3 +50,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=crisdux&show_icons=true&locale=en" alt="crisdux" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crisdux&" alt="crisdux" /></p>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+<a href="https://app.daily.dev/crisdux"><img src="https://github.com/crisdux/crisdux/blob/main/devcard.svg" width="200" alt="crisdux card"/></a>
