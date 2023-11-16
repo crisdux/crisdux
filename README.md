@@ -5,31 +5,11 @@
 <p><em>Software Enginner at <a href="https://www.ulasalle.edu.bo/sp/">La Salle University</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>
 </em></p>
 
-
-
 [![Twitter: cris_cuetillo](https://img.shields.io/twitter/follow/cris_cuetillo?style=social)](https://twitter.com/cris_cuetillo)
 [![Linkedin: CristianFernandoVillcaGutierrez](https://img.shields.io/badge/-crisfer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/crisfer-dux)](https://www.linkedin.com/in/crisfer-dux/)
 [![GitHub crisdux](https://img.shields.io/github/followers/crisdux?label=follow&style=social)](https://github.com/crisdux)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crisdux&label=Profile%20views&color=0e75b6&style=flat" alt="crisdux" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crisdux" alt="crisdux" /></a> </p>
-
-
-### <img src="https://media.giphy.com/media/12bugGuTq5Pv5m/giphy.gif" width="40"> A little more about me... 
-
-```javascript
-const cristian = {
-  pronouns: "cris" | "dux",
-  developer: "Frontend Developer",
-  code: [Javascript, TypeScript, HTML, CSS],
-  tools: [React, Vue, Astro, Node, Express],
-  data_bases:[MySQL, Mongo, PostgreSQL, MariaDB]
-  techCommunities:[
-      {id:1, description:"DevTo", position:"blogger"},
-      {id:2, description:"freeCodeCamp", position:"traductor"},
-  ],
-                
-}
-```
 
 
 - 🌱 I’m currently learning **Python for Web**
@@ -82,4 +62,5 @@ const cristian = {
 <a href="https://app.daily.dev/crisdux"><img src="https://github.com/crisdux/crisdux/blob/main/devcard.svg" width="200" alt="crisdux card"/></a>
 
 [![crisdux's GitHub | Languages Over Time](https://stats.quine.sh/crisdux/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=crisdux)
+[![crisdux's GitHub | Stats](https://stats.quine.sh/crisdux/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=crisdux)
 
