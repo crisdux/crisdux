@@ -12,7 +12,6 @@
 [![GitHub crisdux](https://img.shields.io/github/followers/crisdux?label=follow&style=social)](https://github.com/crisdux)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crisdux&label=Profile%20views&color=0e75b6&style=flat" alt="crisdux" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crisdux" alt="crisdux" /></a> </p>
-<p align="left"> <a href="https://twitter.com/cris_cuetillo" target="blank"><img src="https://img.shields.io/twitter/follow/cris_cuetillo?logo=twitter&style=for-the-badge" alt="cris_cuetillo" /></a> </p>
 
 
 ### <img src="https://media.giphy.com/media/12bugGuTq5Pv5m/giphy.gif" width="40"> A little more about me... 
