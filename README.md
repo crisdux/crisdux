@@ -1,14 +1,20 @@
 <h1 align="center">Hi 👋, I'm Cristian</h1>
 <h3 align="center">A passionate web developer from Bolivia</h3>
 
-<img align='right' src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="230" style="border-radius:100%;">
+
 <p><em>Software Enginner at <a href="https://www.ulasalle.edu.bo/sp/">La Salle University</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>
 </em></p>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+<a href="https://app.daily.dev/crisdux"><img src="https://github.com/crisdux/crisdux/blob/main/devcard.svg" width="200" alt="crisdux card"/></a>
 
 [![Twitter: cris_cuetillo](https://img.shields.io/twitter/follow/cris_cuetillo?style=social)](https://twitter.com/cris_cuetillo)
 [![Linkedin: CristianFernandoVillcaGutierrez](https://img.shields.io/badge/-crisfer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/crisfer-dux)](https://www.linkedin.com/in/crisfer-dux/)
 [![GitHub crisdux](https://img.shields.io/github/followers/crisdux?label=follow&style=social)](https://github.com/crisdux)
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=crisdux&label=Profile%20views&color=0e75b6&style=flat" alt="crisdux" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crisdux" alt="crisdux" /></a> </p>
+<p align="left"> <a href="https://twitter.com/cris_cuetillo" target="blank"><img src="https://img.shields.io/twitter/follow/cris_cuetillo?logo=twitter&style=for-the-badge" alt="cris_cuetillo" /></a> </p>
 
 
 ### <img src="https://media.giphy.com/media/12bugGuTq5Pv5m/giphy.gif" width="40"> A little more about me... 
@@ -28,11 +34,6 @@ const cristian = {
 }
 ```
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=crisdux&label=Profile%20views&color=0e75b6&style=flat" alt="crisdux" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crisdux" alt="crisdux" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/cris_cuetillo" target="blank"><img src="https://img.shields.io/twitter/follow/cris_cuetillo?logo=twitter&style=for-the-badge" alt="cris_cuetillo" /></a> </p>
 
 - 🌱 I’m currently learning **Python for Web**
 
@@ -78,9 +79,6 @@ const cristian = {
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crisdux&" alt="crisdux" /></p>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
-<a href="https://app.daily.dev/crisdux"><img src="https://github.com/crisdux/crisdux/blob/main/devcard.svg" width="200" alt="crisdux card"/></a>
 
 
 
