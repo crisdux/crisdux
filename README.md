@@ -5,9 +5,7 @@
 <p><em>Software Enginner at <a href="https://www.ulasalle.edu.bo/sp/">La Salle University</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>
 </em></p>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-<a href="https://app.daily.dev/crisdux"><img src="https://github.com/crisdux/crisdux/blob/main/devcard.svg" width="200" alt="crisdux card"/></a>
 
 [![Twitter: cris_cuetillo](https://img.shields.io/twitter/follow/cris_cuetillo?style=social)](https://twitter.com/cris_cuetillo)
 [![Linkedin: CristianFernandoVillcaGutierrez](https://img.shields.io/badge/-crisfer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/crisfer-dux)](https://www.linkedin.com/in/crisfer-dux/)
@@ -80,6 +78,8 @@ const cristian = {
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crisdux&" alt="crisdux" /></p>
 
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
+<a href="https://app.daily.dev/crisdux"><img src="https://github.com/crisdux/crisdux/blob/main/devcard.svg" width="200" alt="crisdux card"/></a>
 
 
