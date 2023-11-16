@@ -21,6 +21,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Paracetamol.js💊| #221: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-221-explica-este-codigo-javascript-20lo)
+- [Paracetamol.js💊| #220: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-220-explica-este-codigo-javascript-1dkp)
+- [Paracetamol.js💊| #219: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-219-explica-este-codigo-javascript-42of)
+- [Paracetamol.js💊| #218: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-217-explica-este-codigo-javascript-4fp1)
+- [Tres herramientas para desarrolladores de software 👌](https://dev.to/duxtech/tres-herramientas-para-desarrolladores-de-software-4p4h)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
