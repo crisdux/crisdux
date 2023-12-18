@@ -26,11 +26,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Paracetamol.js💊| #224: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-224-explica-este-codigo-javascript-29bd)
 - [Paracetamol.js💊| #223: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-223-explica-este-codigo-javascript-5ao9)
 - [Paracetamol.js💊| #222: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-222-explica-este-codigo-javascript-4n88)
 - [Paracetamol.js💊| #221: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-221-explica-este-codigo-javascript-4g2i)
 - [Paracetamol.js💊| #220: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-224-explica-este-codigo-javascript-2a77)
-- [Paracetamol.js💊| #219: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-223-explica-este-codigo-javascript-4b3o)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
