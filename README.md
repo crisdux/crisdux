@@ -26,11 +26,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Paracetamol.py🐍| #10: Explica este código Python](https://dev.to/duxtech/paracetamolpy-10-explica-este-codigo-python-1ab1)
+- [Paracetamol.py🐍| #09: Explica este código Python](https://dev.to/duxtech/paracetamolpy-09-explica-este-codigo-python-146g)
 - [Paracetamol.py🐍| #08: Explica este código Python](https://dev.to/duxtech/paracetamolpy-08-explica-este-codigo-python-1f22)
 - [Paracetamol.py🐍| #07: Explica este código Python](https://dev.to/duxtech/paracetamolpy-07-explica-este-codigo-python-2cig)
 - [Paracetamol.py🐍| #06: Explica este código Python](https://dev.to/duxtech/paracetamolpy-06-explica-este-codigo-python-1iad)
-- [Paracetamol.py🐍| #05: Explica este código Python](https://dev.to/duxtech/paracetamolpy-05-explica-este-codigo-python-453p)
-- [Paracetamol.js💊| #225: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-225-explica-este-codigo-javascript-3mh9)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
