@@ -26,11 +26,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Paracetamol.py💊| #40: Explica este código Python](https://dev.to/duxtech/paracetamolpy-40-explica-este-codigo-python-kfk)
-- [Paracetamol.py💊| #39: Explica este código Python](https://dev.to/duxtech/paracetamolpy-39-explica-este-codigo-python-3fbg)
-- [Paracetamol.py💊| #38: Explica este código Python](https://dev.to/duxtech/paracetamolpy-38-explica-este-codigo-python-29o8)
-- [Paracetamol.py💊| #37: Explica este código Python](https://dev.to/duxtech/paracetamolpy-37-explica-este-codigo-python-356j)
-- [Paracetamol.py💊| #36: Explica este código Python](https://dev.to/duxtech/paracetamolpy-36-explica-este-codigo-python-4op6)
+- [Ibuprofeno.py💊| #41: Explica este código Python](https://dev.to/duxtech/paracetamolpy-41-explica-este-codigo-python-nb8)
+- [Ibuprofeno.py💊| #40: Explica este código Python](https://dev.to/duxtech/paracetamolpy-40-explica-este-codigo-python-kfk)
+- [Ibuprofeno.py💊| #39: Explica este código Python](https://dev.to/duxtech/paracetamolpy-39-explica-este-codigo-python-3fbg)
+- [Ibuprofeno.py💊| #38: Explica este código Python](https://dev.to/duxtech/paracetamolpy-38-explica-este-codigo-python-29o8)
+- [Ibuprofeno.py💊| #37: Explica este código Python](https://dev.to/duxtech/paracetamolpy-37-explica-este-codigo-python-356j)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
