@@ -26,11 +26,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Agenda IWD El Alto 2024 | Día 1: ¡Huellas de Empoderamiento, Floreciendo con Fuerza y Libertad! ✨](https://dev.to/duxtech/agenda-iwd-el-alto-2024-dia-1-huellas-de-empoderamiento-floreciendo-con-fuerza-y-libertad-25l3)
 - [Ibuprofeno.py💊| #56: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-56-explica-este-codigo-python-2ha3)
 - [Ibuprofeno.py💊| #55: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-55-explica-este-codigo-python-4384)
 - [Ibuprofeno.py💊| #54: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-54-explica-este-codigo-python-3agc)
 - [Ibuprofeno.py💊| #53: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-53-explica-este-codigo-python-1429)
-- [Ibuprofeno.py💊| #52: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-52-explica-este-codigo-python-499h)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
