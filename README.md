@@ -26,11 +26,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Lunes de música... ¿Qué estás escuchando? 🎵 &lpar;18-03-2024&rpar;](https://dev.to/music-discussions/lunes-de-musica-que-estas-escuchando-18-03-2024-4iel)
 - [Agenda IWD El Alto 2024 | Día 2: ¡Huellas de Empoderamiento, Floreciendo con Fuerza y Libertad! ✨](https://dev.to/duxtech/agenda-iwd-el-alto-2024-dia-2-huellas-de-empoderamiento-floreciendo-con-fuerza-y-libertad-30an)
 - [Agenda IWD El Alto 2024 | Día 1: ¡Huellas de Empoderamiento, Floreciendo con Fuerza y Libertad! ✨](https://dev.to/duxtech/agenda-iwd-el-alto-2024-dia-1-huellas-de-empoderamiento-floreciendo-con-fuerza-y-libertad-25l3)
 - [Ibuprofeno.py💊| #56: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-56-explica-este-codigo-python-2ha3)
 - [Ibuprofeno.py💊| #55: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-55-explica-este-codigo-python-4384)
-- [Ibuprofeno.py💊| #54: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-54-explica-este-codigo-python-3agc)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
