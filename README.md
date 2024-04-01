@@ -26,11 +26,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Lunes de música... ¿Qué estás escuchando? 🎵 &lpar;31-03-2024&rpar;](https://dev.to/music-discussions/lunes-de-musica-que-estas-escuchando-31-03-2024-1l3d)
 - [Ibuprofeno.py💊| #67: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-67-explica-este-codigo-python-52ah)
 - [Ibuprofeno.py💊| #66: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-66-explica-este-codigo-python-3c55)
 - [Ibuprofeno.py💊| #65: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-65-explica-este-codigo-python-j6d)
 - [Ibuprofeno.py💊| #64: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-64-explica-este-codigo-python-3ggk)
-- [Ibuprofeno.py💊| #63: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-63-explica-este-codigo-python-4hb1)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
