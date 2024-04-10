@@ -29,8 +29,8 @@
 - [Ibuprofeno.py💊| #75: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-75-explica-este-codigo-python-52fh)
 - [Ibuprofeno.py💊| #74: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-74-explica-este-codigo-python-57p)
 - [Ibuprofeno.py💊| #73: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-73-explica-este-codigo-python-4289)
-- [Ibuprofeno.py💊| #72: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-72-explica-este-codigo-python-35gp)
 - [5 recursos gratuitos para aprender Python en 2024](https://dev.to/duxtech/5-recursos-gratuitos-para-aprender-python-en-2024-4ocj)
+- [Ibuprofeno.py💊| #72: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-72-explica-este-codigo-python-35gp)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
