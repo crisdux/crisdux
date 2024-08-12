@@ -26,11 +26,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Ibuprofeno.py💊| #159: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-159-explica-este-codigo-python-am9)
 - [Ibuprofeno.py💊| #158: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-158-explica-este-codigo-python-1g0p)
 - [Ibuprofeno.py💊| #157: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-157-explica-este-codigo-python-512o)
 - [Ibuprofeno.py💊| #156: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-156-explica-este-codigo-python-2284)
 - [Ibuprofeno.py💊| #155: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-155-explica-este-codigo-python-36id)
-- [Ibuprofeno.py💊| #154: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-154-explica-este-codigo-python-moa)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
