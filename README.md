@@ -27,8 +27,8 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Ibuprofeno.py💊| #165: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-165-explica-este-codigo-python-56dd)
-- [Ibuprofeno.py💊| #163: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-163-explica-este-codigo-python-jj7)
 - [Ibuprofeno.py💊| #164: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-164-explica-este-codigo-python-182p)
+- [Ibuprofeno.py💊| #163: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-163-explica-este-codigo-python-jj7)
 - [Ibuprofeno.py💊| #162: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-162-explica-este-codigo-python-2mj2)
 - [Ibuprofeno.py💊| #161: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-161-explica-este-codigo-python-c8b)
 <!-- BLOG-POST-LIST:END -->
