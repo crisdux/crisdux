@@ -26,11 +26,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Ibuprofeno.py💊| #181: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-181-explica-este-codigo-python-1io6)
 - [Ibuprofeno.py💊| #180: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-180-explica-este-codigo-python-5gb6)
 - [OpenAI Lanza Chat GPTo1: Una Revolución en el Razonamiento de IA](https://dev.to/duxtech/openai-lanza-chat-gpto1-una-revolucion-en-el-razonamiento-de-ia-11lf)
 - [Ibuprofeno.py💊| #179: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-179-explica-este-codigo-python-1bbd)
 - [Ibuprofeno.py💊| #178: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-178-explica-este-codigo-python-19jj)
-- [Ibuprofeno.py💊| #177: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-177-explica-este-codigo-python-2mg0)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
