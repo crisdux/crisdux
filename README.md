@@ -26,11 +26,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [¿Cómo navegar entre commits en git? 🤔](https://dev.to/duxtech/como-navegar-entre-commits-en-git-17h6)
 - [¿Qué es un tag en git?](https://dev.to/duxtech/que-es-un-tag-en-git-222g)
 - [Ibuprofeno.py💊| #190: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-190-explica-este-codigo-python-1963)
 - [Ibuprofeno.py💊| #189: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-189-explica-este-codigo-python-57mf)
 - [Ibuprofeno.py💊| #188: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-188-explica-este-codigo-python-2g3d)
-- [Ibuprofeno.py💊| #187: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-187-explica-este-codigo-python-4f01)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
