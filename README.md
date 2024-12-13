@@ -26,11 +26,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [¿Cómo crear una llave SSH y conectarla con Github en Windows? 🤔](https://dev.to/duxtech/como-crear-una-llave-ssh-y-conectarla-con-github-en-windows-1j39)
 - [Fusión de ramas en git con rebase 🍂](https://dev.to/duxtech/fusion-de-ramas-en-git-con-rebase-382a)
 - [¿Cómo navegar entre commits en git? 🤔](https://dev.to/duxtech/como-navegar-entre-commits-en-git-17h6)
 - [¿Qué es un tag en git?](https://dev.to/duxtech/que-es-un-tag-en-git-222g)
 - [Ibuprofeno.py💊| #190: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-190-explica-este-codigo-python-1963)
-- [Ibuprofeno.py💊| #189: Explica este código Python](https://dev.to/duxtech/ibuprofenopy-189-explica-este-codigo-python-57mf)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
