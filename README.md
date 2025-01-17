@@ -26,11 +26,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Squoosh: una herramienta de optimización de imágenes para tu web](https://dev.to/duxtech/squoosh-una-herramienta-de-optimizacion-de-imagenes-para-tu-web-1lh6)
 - [Acordeones exclusivos nativos en HTML5 🪗](https://dev.to/duxtech/acordeones-exclusivos-nativos-en-html5-4kea)
 - [Git avanzado: ¿Qué es cherry pick? 🍒](https://dev.to/duxtech/git-avanzado-que-es-cherry-pick-2m4g)
 - [Guía rápida: Consejos para hacer buenos mensajes de commit en Git 😀](https://dev.to/duxtech/guia-rapida-consejos-para-hacer-buenos-mensajes-de-commit-en-git-oh0)
 - [¿Cómo crear una llave SSH y conectarla con Github en Windows? 🤔](https://dev.to/duxtech/como-crear-una-llave-ssh-y-conectarla-con-github-en-windows-1j39)
-- [Fusión de ramas en git con rebase 🍂](https://dev.to/duxtech/fusion-de-ramas-en-git-con-rebase-382a)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
