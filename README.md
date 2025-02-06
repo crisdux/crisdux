@@ -26,11 +26,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Git Avanzado: ¿Qué es git stash? 🔎](https://dev.to/duxtech/git-avanzado-que-es-git-stash-30do)
 - [10 Preguntas y Respuestas de CSS para tu próxima entrevista laboral 🎨](https://dev.to/duxtech/10-preguntas-y-respuestas-de-css-para-tu-proxima-entrevista-laboral-42h8)
 - [Combinadores lógicos para selectores en CSS 🎨](https://dev.to/duxtech/combinadores-logicos-para-selectores-en-css-51n0)
 - [Squoosh: una herramienta de optimización de imágenes para tu web](https://dev.to/duxtech/squoosh-una-herramienta-de-optimizacion-de-imagenes-para-tu-web-1lh6)
 - [Acordeones exclusivos nativos en HTML5 🪗](https://dev.to/duxtech/acordeones-exclusivos-nativos-en-html5-4kea)
-- [Git avanzado: ¿Qué es cherry pick? 🍒](https://dev.to/duxtech/git-avanzado-que-es-cherry-pick-2m4g)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
