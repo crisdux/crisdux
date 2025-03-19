@@ -26,11 +26,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Desarrolla tus habilidades de programación con los 3 mejores playgrounds de código para JavaScript 🤯](https://dev.to/duxtech/desarrolla-tus-habilidades-de-programacion-con-los-3-mejores-playgrounds-de-codigo-para-javascript-336b)
 - [¿JavaScript? ¡No lo necesitas! Aprende a animar el scroll con CSS 😌](https://dev.to/duxtech/javascript-no-lo-necesitas-aprende-a-animar-el-scroll-con-css-103h)
 - [Practica selectores CSS con ejercicios 😎 &lpar;Parte 2&rpar;](https://dev.to/duxtech/practica-selectores-css-con-ejercicios-parte-2-3de3)
 - [Efectos Visuales con Filtros CSS: Crea Magia con una Línea de Código🖍️](https://dev.to/duxtech/css-avanzado-guia-completa-de-filtros-hna)
 - [Practica selectores CSS con ejercicios 😎](https://dev.to/duxtech/practica-selectores-css-con-ejercicios-2p46)
-- [Git Avanzado: ¿Qué es git stash? 🔎](https://dev.to/duxtech/git-avanzado-que-es-git-stash-30do)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
