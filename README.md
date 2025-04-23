@@ -26,11 +26,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Practica manipulación del DOM con Js Vanilla y ejercicios 😎 &lpar;Parte 2&rpar;](https://dev.to/duxtech/practica-manipulacion-del-dom-con-js-vanilla-y-ejercicios-parte-2-1dil)
 - [Practica manipulación del DOM con Js Vanilla y ejercicios 😎](https://dev.to/duxtech/practica-manipulacion-del-dom-con-js-vanilla-y-ejercicios-h3)
 - [Paracetamol.js💊| #226: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-226-explica-este-codigo-javascript-438g)
 - [¡Gratis y Profesionales! Los Mejores Iconos para Impulsar tu Próximo Proyecto Web 😎](https://dev.to/duxtech/gratis-y-profesionales-los-mejores-iconos-para-impulsar-tu-proximo-proyecto-web-kdf)
 - [Desarrolla tus habilidades de programación con los 3 mejores playgrounds de código para JavaScript 🤯](https://dev.to/duxtech/desarrolla-tus-habilidades-de-programacion-con-los-3-mejores-playgrounds-de-codigo-para-javascript-336b)
-- [¿JavaScript? ¡No lo necesitas! Aprende a animar el scroll con CSS 😌](https://dev.to/duxtech/javascript-no-lo-necesitas-aprende-a-animar-el-scroll-con-css-103h)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
