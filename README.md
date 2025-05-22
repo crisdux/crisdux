@@ -26,11 +26,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Paracetamol.ts💊| #36: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-36-explica-este-codigo-typescript-40bp)
 - [Paracetamol.ts💊| #35: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-35-explica-este-codigo-typescript-411o)
 - [Paracetamol.js💊| #227: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-227-explica-este-codigo-javascript-58np)
 - [Practica manipulación del DOM con Js Vanilla y ejercicios 😎 &lpar;Parte 2&rpar;](https://dev.to/duxtech/practica-manipulacion-del-dom-con-js-vanilla-y-ejercicios-parte-2-1dil)
 - [Practica manipulación del DOM con Js Vanilla y ejercicios 😎](https://dev.to/duxtech/practica-manipulacion-del-dom-con-js-vanilla-y-ejercicios-h3)
-- [Paracetamol.js💊| #226: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-226-explica-este-codigo-javascript-438g)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
