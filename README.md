@@ -26,11 +26,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Paracetamol.ts💊| #41: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-41-explica-este-codigo-typescript-32do)
 - [Paracetamol.ts💊| #40: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-40-explica-este-codigo-typescript-n15)
 - [Paracetamol.ts💊| #39: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-39-explica-este-codigo-typescript-56al)
 - [Paracetamol.ts💊| #38: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-38-explica-este-codigo-typescript-37gi)
 - [Paracetamol.ts💊| #37: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-37-explica-este-codigo-typescript-14h7)
-- [CSS moderno: ¿condicionales if en CSS? 🤔](https://dev.to/duxtech/css-moderno-condicionales-if-en-css-dof)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
