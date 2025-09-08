@@ -26,11 +26,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Paracetamol.ts💊| #45: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-45-explica-este-codigo-typescript-4fj1)
 - [Const Assertions en TypeScript 🤔](https://dev.to/duxtech/const-assertions-en-typescript-57jf)
 - [Paracetamol.ts💊| #44: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-44-explica-este-codigo-typescript-209d)
 - [Paracetamol.ts💊| #43: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-43-explica-este-codigo-typescript-47ni)
 - [Paracetamol.ts💊| #42: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-42-explica-este-codigo-typescript-2a28)
-- [Paracetamol.ts💊| #41: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-41-explica-este-codigo-typescript-32do)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
