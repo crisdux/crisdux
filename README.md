@@ -26,11 +26,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Creación de un entorno de pruebas para frontend: React, TypeScript y Vitest ⚛️](https://dev.to/duxtech/creacion-de-un-entorno-de-pruebas-para-frontend-react-typescript-y-vitest-42mg)
 - [Principales comandos de bash para Linux 🐧](https://dev.to/duxtech/principales-comandos-de-bash-para-linux-3h40)
 - [Paracetamol.ts💊| #47: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-47-explica-este-codigo-typescript-1fna)
 - [Paracetamol.ts💊| #46: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-46-explica-este-codigo-typescript-2lfd)
 - [Adiós a node_modules gigantes: descubre cómo pnpm revoluciona la gestión de paquetes en nuestros proyectos web 🎉](https://dev.to/duxtech/adios-a-nodemodules-gigantes-descubre-como-pnpm-revoluciona-la-gestion-de-paquetes-en-nuestros-14l8)
-- [Paracetamol.ts💊| #45: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-45-explica-este-codigo-typescript-4fj1)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
