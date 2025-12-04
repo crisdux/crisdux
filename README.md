@@ -26,11 +26,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Advent.js 2025🎅🏼| Reto #2: Fabrica los juguetes](https://dev.to/duxtech/adventjs-2025-reto-2-fabrica-los-juguetes-m78)
 - [Advent.js 2025🎅🏼| Reto #1: Filtrar los regalos defectuosos](https://dev.to/duxtech/adventjs-2025-reto-1-filtrar-los-regalos-defectuosos-1ck9)
 - [Creación de un entorno de pruebas para frontend: React, TypeScript y Vitest ⚛️](https://dev.to/duxtech/creacion-de-un-entorno-de-pruebas-para-frontend-react-typescript-y-vitest-42mg)
 - [Principales comandos de bash para Linux 🐧](https://dev.to/duxtech/principales-comandos-de-bash-para-linux-3h40)
 - [Paracetamol.ts💊| #47: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-47-explica-este-codigo-typescript-1fna)
-- [Paracetamol.ts💊| #46: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-46-explica-este-codigo-typescript-2lfd)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
